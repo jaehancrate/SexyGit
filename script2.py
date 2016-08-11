@@ -1,5 +1,6 @@
 # another python script
 
+<<<<<<< HEAD
 dsfkl;ajds;fljasdl;fjsdkl;jaf;dskfa
 \sd
 fads
@@ -32,3 +33,28 @@ v
 4
 234
 23
+=======
+sdklfsdfewf
+dsfa
+sdf
+a
+ds
+fsd
+a
+csd
+v
+as
+v
+cxv
+axcb
+dfh
+df
+h
+df
+ahdfh
+df
+h
+adf
+hadfh
+d
+>>>>>>> development
